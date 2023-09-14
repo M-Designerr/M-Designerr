@@ -6,8 +6,7 @@ I'm a passionate developer and tech enthusiast, always exploring the latest tren
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Indian Food Image Classification](https://github.com/M-Designerr/your-current-project)
-- 🌱 I’m currently learning [React-Native](https://reactnative.dev/)
+- 🔭 I’m currently working on [Indian Food Image Classification](https://github.com/M-Designerr/IndianFoodRecognition)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything tech-related, I love discussions!
 - 📫 How to reach me: [mk02082000@gmail.com](mailto:mk02082000@gmail.com)
